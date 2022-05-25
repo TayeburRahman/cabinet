@@ -1,0 +1,45 @@
+.backgroundTop {
+  background-color: rgb(212, 165, 12);
+  color: white;
+  height: 150px;
+}
+.hightInput {
+  margin-bottom: 150px !important;
+}
+.gridStyle {
+  justify-items: center;
+}
+.navBackground {
+  background: #1f1f1f;
+  height: 60px;
+  margin-top: -30px;
+  border-radius: 3px;
+}
+.nav-link {
+  color: white !important;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 60px;
+  padding-top: 15px;
+}
+.nav-item {
+  justify-content: center;
+}
+.form-label {
+  color: #1f1f1f;
+}
+.textLeft {
+  text-align: left;
+}
+.footer {
+  background-color: rgb(212, 165, 12);
+  height: 100px;
+  color: rgb(32, 32, 32);
+  display: grid;
+  align-items: center;
+}
+.nav-link:hover {
+  background-color: rgb(212, 165, 12);
+}
